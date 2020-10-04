@@ -1,4 +1,4 @@
-# awesome-scriptable
+# Awesome Scriptable
 
 A curated list of awesome [Scriptable](https://docs.scriptable.app/) resources and scripts
 
