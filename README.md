@@ -4,6 +4,8 @@ A curated list of awesome [Scriptable](https://docs.scriptable.app/) resources a
 
 Scriptable Documentation: https://docs.scriptable.app/
 
+Scriptable TestFlight Link: https://testflight.apple.com/join/uN1vTqxk
+
 ---
 
 ### Widgets:
